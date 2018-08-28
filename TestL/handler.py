@@ -3,7 +3,7 @@ import json
 
 def hello(event, context):
     body = {
-        "message": "Serverless deployment",
+        "message": "NEW DEPLOYMENT",
         "input": event
     }
 
